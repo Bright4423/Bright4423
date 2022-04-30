@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bright4423
-- 👀 I’m interested in Python and Java script
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Front end development
+- 🌱 I’m currently learning HTML CSS Javascript
 - 💞️ well, I'm open minded
 - 📫 How to reach me oparadurubright4@gmail.com
 
